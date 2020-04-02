@@ -5,7 +5,7 @@ permalink: /DataAnalysis/
 author_profile: true
 ---
 
-[## Bank's Debt Collecting Analysis](/files/banks_debt.html)
+## [Bank's Debt Collecting Analysis](/files/banks_debt.html)
 
 [![](/images/banks_debt.png)](/files/banks_debt.html)
 
