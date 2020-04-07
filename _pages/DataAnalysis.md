@@ -18,7 +18,11 @@ author_profile: true
 
 ---
 
+## [Credit Card Approvals Prediction](/files/cc_approvals.html)
+<p>Commercial banks receive a lot of credit card applications, and manually analyze these applications could be error-prone and time-consuming. In this project, we'll utilize machine learning techniques to perform a supervised learning with scikit-learn, try to automate the credit card approving process.</p>
+[![](https://assets.datacamp.com/production/project_558/img/credit_card.jpg width=500)](/files/cc_approvals.html)
 
+---
 
 
 {% include base_path %}
