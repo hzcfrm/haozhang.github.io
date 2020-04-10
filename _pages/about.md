@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome! I am Hao, currently a Master of Science candidate in the Computational Finance & Risk Management program at Department of Applied Mathematics, University of Washington. I am in pursuit of a career as a quantitative analyst, using data and mathematical modeling to optimize business operations. Take a look at my [Data Analysis](https://hzcfrm.github.io/DataAnalysis/) and [Quantitative Finance](https://hzcfrm.io/QuantitativeFinance/) pages, where I show my projects work in relevant fields.
 
-<br />![](images/UW.jpg)
+<br />![UW](images/UW.jpg)
 *The Big W, University of Washington*
 
 **In Industry: Business Operations and Client Support**
@@ -24,7 +24,7 @@ Prior to joining UW CFRM, I gained my industry experience from two internships. 
 
 I would never forget my days and months spent at my undergraduate institution, Rutgers, the State University of New Jersey, where I earned my Bachelor's degree with a double major in Mathematics and Finance. As I keep going forward, from coast to coast, I always keep my thankful heart, for the place I built my dreams. 
 
-<br />![](images/Rutgers.jpg)
+<br />![Rutgers](images/Rutgers.jpg)
 *Main Gate To Old Queens, Rutgers, the State University of New Jersey*
 
 **Looking Forward**
