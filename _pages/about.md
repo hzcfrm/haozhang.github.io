@@ -33,4 +33,5 @@ As I seize every moment and initiative in my journey, I find even more beauty of
 
 I appreciate so much for your stop here. Feel free to reach out, thank you, and cheers!
 
-
+<br />![SunsetAtUyuni](images/Uyuni3.JPG)
+*Sunset, Uyuni, Bolivia*
