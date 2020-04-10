@@ -29,7 +29,7 @@ I would never forget my days and months spent at my undergraduate institution, R
 
 **Looking Forward**
 
-As I seize every moment and initiative in my journey, I find even more beauty of life and world. Take a look at [what I have seen](https://hzcfrm.io/Gallery/), and I look forward to going further.  
+As I seize every moment and initiative in my journey, I find even more beauty of life and world. Take a look at [what I have seen](https://hzcfrm.github.io/Gallery/), and I look forward to going further.  
 
 I appreciate so much for your stop here. Feel free to reach out, thank you, and cheers!
 
