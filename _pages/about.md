@@ -10,7 +10,7 @@ redirect_from:
 
 **Candidate of UW CFRM Program**
 
-Welcome! I am Hao, currently a Master of Science candidate in the Computational Finance & Risk Management program at Department of Applied Mathematics, University of Washington. I am in pursuit of a career as a quantitative analyst, using data and mathematical modeling to optimize business operations. Take a look at my [Data Analysis](https://hzcfrm.github.io/DataAnalysis/) and [Quantitative Finance](https://hzcfrm.io/QuantitativeFinance/) pages, where I show my projects work in relevant fields.
+Welcome! I am Hao, currently a Master of Science candidate in the Computational Finance & Risk Management program at Department of Applied Mathematics, University of Washington. I am in pursuit of a career as a quantitative analyst, using data and mathematical modeling to optimize business operations. Take a look at my [Data Analysis](https://hzcfrm.github.io/DataAnalysis/) and [Quantitative Finance](https://hzcfrm.github.io/QuantitativeFinance/) pages, where I show my projects work in relevant fields.
 
 <br />![UW](images/UW.jpg)
 *The Big W, University of Washington*
