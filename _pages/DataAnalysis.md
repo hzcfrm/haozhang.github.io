@@ -5,7 +5,7 @@ permalink: /DataAnalysis/
 author_profile: true
 ---
 
-## [Machine Learning on Federal Student Loan Repayment](/files/cc_approvals.html)
+## [Machine Learning on Federal Student Loan Repayment](/files/student_loan.html)
 <p>With the background of the global pandemic and economic recession, the outstanding amount of federal student loan has reached an all-time high. In this project, we'll conduct a machine learning exploration of factors contributing to the repayment rate of federal student loan, use several different machine learning algorithms and compare their performance in this task. We hope this can help us find how machine learning can tell us the story behind rather complex datasets and provide insights for real-world problems.</p>
 [![](/images/student_loan.png)](/files/student_loan.html)
 
