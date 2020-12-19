@@ -5,6 +5,12 @@ permalink: /QuantitativeFinance/
 author_profile: true
 ---
 
+## [Mean-reverting Trading Implementation & Backtesting](/files/mean_reverting.html)
+<p>A lot of stocks in the market have some kind of co-movements, which inspire us to investigate the quantitative trading strategy based on the mean-reverting behavior.  In this project, we'll use the standard Johansen test to construct a tradable portfolio using a few stocks from the retail industry, implement the quantitative trading stratgy in Python, and backtest its performance over the last 10 years.</p>
+[![](/images/mean_reverting.png)](/files/mean_reverting.html)
+
+---
+
 ## [Portfolio Performance Analysis & Benchmarking](/files/portfolio_analysis.html)
 <p>Accurate evaluation of the past performance of investments forms the basis for assessing future prospects of the investments. In this project, we'll utilize the R <em>quantmod</em> and <em>PerformanceAnalytics</em> packages to cover fundamental principles and commonly used methods in portfolio evaluation.</p>
 [![](/images/portfolio_analysis.png)](/files/portfolio_analysis.html)
